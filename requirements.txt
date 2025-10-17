@@ -1,0 +1,21 @@
+# Core Dependencies
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+Pillow
+
+# AI/ML Models
+transformers
+torch
+deepface
+tensorflow
+tf-keras
+
+# NLP and Visualization
+wordcloud
+
+# Additional Utilities
+opencv-python
+scikit-learn
